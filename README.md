@@ -1,1 +1,1 @@
-Tree class example
+My idea of implementing a natural tree class
